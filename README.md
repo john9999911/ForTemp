@@ -1,16 +1,3 @@
-https://github.com/john9999911/ForTemp/releases/download/Demo/Demo.mp4
-
----
-
-https://raw.githubusercontent.com/john9999911/ForTemp/main/Videos/Demo.mp4
-
-<video src="./Videos/Demo.mp4"></video>
-
-<video src="https://raw.githubusercontent.com/john9999911/ForTemp/main/Videos/Demo.mp4"></video>
-
 ![interlude_christmas3](https://github.com/john9999911/ForTemp/assets/80616586/ae76db16-0635-4fff-bebc-94c4001ccd17)
-
-
-
-https://github.com/john9999911/ForTemp/assets/80616586/8229aab0-b06c-4535-9b04-1196cbe81189
+https://github.com/john9999911/ForTemp/assets/80616586/a16defe2-fe7c-441c-97c9-3e5bf7bc0e63
 
